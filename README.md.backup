@@ -7,10 +7,10 @@
 The starting of the file should look somewhat like:  
 
  ```
- Sam.101
- August 21, 2021   
- Tom
- ``` 
-
+ Sam.101    
+August 21, 2021
+    
+Tom
+``` 
 4. Make sure python3 is installed on your system.
 5. Run this program using ```python3 eq.py```

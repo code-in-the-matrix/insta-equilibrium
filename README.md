@@ -1,4 +1,4 @@
-# Script to find difference in followers & following list on Instagram
+# Script to find difference between followers & following list on Instagram
 
 ## Steps:
 1. Request your data from instagram in json format.
